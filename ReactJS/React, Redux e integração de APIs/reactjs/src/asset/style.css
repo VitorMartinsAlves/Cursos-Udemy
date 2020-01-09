@@ -1,0 +1,11 @@
+.App-header{
+    text-align: center;
+  }
+
+span {
+    padding: 5px;
+}
+.Flex {
+display: flex;
+flex-direction: column;
+}

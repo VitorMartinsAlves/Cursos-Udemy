@@ -5,9 +5,7 @@ import React, { Component } from 'react';
 class Componente extends Component {
   render (){
       return(
-        <div className="App">
-       este é um componente {this.props.nome}
-      </div>
+        <div className="App">este é um componente {this.props.nome}</div>
       );
   }
 }
